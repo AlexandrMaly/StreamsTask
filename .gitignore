@@ -1,0 +1,14 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+/out/production/streamsTask/Application/App.class
+/out/production/streamsTask/Data/DataUser.class
+/out/production/streamsTask/Handler/HandlerUser.class
+/out/production/streamsTask/Main.class
+/.idea/misc.xml
+/.idea/modules.xml
+/out/production/streamsTask/Output/Outputer.class
+/streamsTask.iml
+/.idea/uiDesigner.xml
+/out/production/streamsTask/User/User.class
+/.idea/workspace.xml
